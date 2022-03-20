@@ -4,9 +4,12 @@
 - url: https://zasfe.com/
   output: zasfe_com.png
   height: 800
+  wait: 2000
 - url: https://zasfe.tistory.com/
   output: zasfe_tistory_com.png
   height: 800
+  wait: 2000
 - url: https://zasfe.github.io
   output: zasfe_github_io.png
   height: 800
+  wait: 2000
